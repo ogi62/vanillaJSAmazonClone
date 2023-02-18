@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Nintendo Switch (2019)",
+      "brandName": "Nintendo",
+      "productCategory": "Consoles",
+      "date": "16.10.2019",
+      "productImage": "images/nintendo/nintendo-switch.png",
+      "productImage2": null,
+      "productImage3": null,
+      "productDescription": "Nintendo Switch is an epic console for gaming. Realeased in March 2019, sold in 15 milion units in 2019 and 2020.",
+      "productDescription2": null,
+      "productPrice": 200,
+      "productRating": 4
+    },
+    {
+      "id": 2,
+      "productName": "PlayStation PS5 Console – God of War Ragnarök Bundle",
+      "brandName": "PlayStation 5",
+      "productCategory": "Consoles",
+      "date": "12.05.2021",
+      "productImage": "images/play-station-5/play-station-5.jpg",
+      "productImage2": null,
+      "productImage3": null,
+      "productDescription": "Embark on an epic and heartfelt journey alongside Kratos and Atreus with the PlayStation 5 Console – God of War Ragnarök Bundle.Bundle includes: PlayStation 5 console, DualSense Wireless Controller, Base, HDMI Cable, AC power cord, USB cable, God of War Ragnarok full game voucher.",
+      "productDescription2": null,
+      "productPrice": 559,
+      "productRating": 5
+    }
+  ]
+}
