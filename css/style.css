@@ -1,8 +1,25 @@
-.main-section {
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 100px;
+}
+.main {
   min-height: 100vh;
+}
+.footer {
+  height: 100px;
 }
 .main-section-banner {
   background-image: url("./images/banner.jpg");
   background-position: center;
   background-size: cover;
+}
+
+.main-section-products {
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }

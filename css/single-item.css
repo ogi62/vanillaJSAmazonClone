@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 100px;
+}
+.main-section {
+  height: 100vh;
+}
+.footer {
+  height: 100px;
+}
